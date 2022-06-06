@@ -1,6 +1,6 @@
 # Track your exercise routine
 
-Note: this project is under development, soon i'll add more information in this readme. 
+Note: this project is under development, soon i'll add more information in this readme and comments to the code. 
 
 The idea here is to use ReactJS to make a exercise tracker, where you can create notes that describe the exercises, give the time that they have to be done and a status of done or pending.
 
